@@ -1,3 +1,5 @@
+##This project is part of Epicodus bootcamp coursework and is not in a complete state.
+
 ## Specs
 
 Get palindrome "in-question" from user
